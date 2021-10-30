@@ -18,7 +18,7 @@ The answers for each exercise are tagged with the exercise name.
 | [if](./exercises/if/README.md) | 2 min 20sec |
 | quiz1 | 3 min 30sec |
 | [move_semantics](./exercises/move_semantics/README.md) | 8 min |
-| [primitive_types](./exercises/primitive_types/README.md) | x min y sec |
+| [primitive_types](./exercises/primitive_types/README.md) | 4 min |
 | [structs](./exercises/structs/README.md) | x min y sec |
 | [enums](./exercises/enums/README.md) | x min y sec |
 | [modules](./exercises/modules/README.md) | x min y sec |
