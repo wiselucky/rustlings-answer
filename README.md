@@ -16,4 +16,26 @@ The answers for each exercise are tagged with the exercise name.
 | ---------- | -----------|
 | [variables](./exercises/variables/README.md) | 5 min  |
 | [functions](./exercises/functions/README.md) | 3 min 30sec |
+| [if](./exercises/if/README.md) | 2 min 20sec |
+| [move_semantics](./exercises/move_semantics/README.md) | x min y sec |
+| [primitive_types](./exercises/primitive_types/README.md) | x min y sec |
+| [structs](./exercises/structs/README.md) | x min y sec |
+| [enums](./exercises/enums/README.md) | x min y sec |
+| [modules](./exercises/modules/README.md) | x min y sec |
+| [collections](./exercises/collections/README.md) | x min y sec |
+| [strings](./exercises/strings/README.md) | x min y sec |
+| [error_handling](./exercises/error_handling/README.md) | x min y sec |
+| [generics](./exercises/generics/README.md) | x min y sec |
+| [option](./exercises/option/README.md) | x min y sec |
+| [traits](./exercises/traits/README.md) | x min y sec |
+| [tests](./exercises/tests/README.md) | x min y sec |
+| [standard_library_types](./exercises/standard_library_types/README.md) | x min y sec |
+| [threads](./exercises/threads/README.md) | x min y sec |
+| [macros](./exercises/macros/README.md) | x min y sec |
+| [clippy](./exercises/clippy/README.md) | x min y sec |
+| [conversions](./exercises/conversions/README.md) | x min y sec |
+
+
+
+
 
