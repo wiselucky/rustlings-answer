@@ -9,7 +9,6 @@ The initial tag has no answers for exercises.
 The main branch has answers for all exercies.  
 The answers for each exercise are tagged with the exercise name.
 
-
 ## Time taken to solve the exerises.
 
 | exercise | time required |
@@ -17,6 +16,7 @@ The answers for each exercise are tagged with the exercise name.
 | [variables](./exercises/variables/README.md) | 5 min  |
 | [functions](./exercises/functions/README.md) | 3 min 30sec |
 | [if](./exercises/if/README.md) | 2 min 20sec |
+| quiz1 | 3 min 30sec |
 | [move_semantics](./exercises/move_semantics/README.md) | x min y sec |
 | [primitive_types](./exercises/primitive_types/README.md) | x min y sec |
 | [structs](./exercises/structs/README.md) | x min y sec |
