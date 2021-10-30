@@ -21,7 +21,7 @@ The answers for each exercise are tagged with the exercise name.
 | [primitive_types](./exercises/primitive_types/README.md) | 4 min |
 | [structs](./exercises/structs/README.md) | 14 min |
 | [enums](./exercises/enums/README.md) | 10 min |
-| [modules](./exercises/modules/README.md) | x min y sec |
+| [modules](./exercises/modules/README.md) | 3 min |
 | [collections](./exercises/collections/README.md) | x min y sec |
 | [strings](./exercises/strings/README.md) | x min y sec |
 | [error_handling](./exercises/error_handling/README.md) | x min y sec |
