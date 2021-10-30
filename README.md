@@ -2,7 +2,7 @@
 
 This repository is answers of [rustlings-4.6.0](https://github.com/rust-lang/rustlings).
 
-ℹ︎f the answer is wrong, or if you have α better answer, please let me know.  
+If the answer is wrong, or if you have α better answer, please let me know.  
   
 ## Overview
 The initial tag has no answers for exercises.  
@@ -15,4 +15,5 @@ The answers for each exercise are tagged with the exercise name.
 | exercise | time required |
 | ---------- | -----------|
 | [variables](./exercises/variables/README.md) | 5 min  |
+| [functions](./exercises/functions/README.md) | 3 min 30sec |
 
