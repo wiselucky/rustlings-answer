@@ -23,7 +23,7 @@ The answers for each exercise are tagged with the exercise name.
 | [enums](./exercises/enums/README.md) | 10 min |
 | [modules](./exercises/modules/README.md) | 3 min |
 | [collections](./exercises/collections/README.md) | 14 min |
-| [strings](./exercises/strings/README.md) | x min y sec |
+| [strings](./exercises/strings/README.md) | 1 min 30 sec |
 | [error_handling](./exercises/error_handling/README.md) | x min y sec |
 | [generics](./exercises/generics/README.md) | x min y sec |
 | [option](./exercises/option/README.md) | x min y sec |
