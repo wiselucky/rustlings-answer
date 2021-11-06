@@ -26,7 +26,7 @@ The answers for each exercise are tagged with the exercise name.
 | [strings](./exercises/strings/README.md) | 1 min 30 sec |
 | quiz2 | 3 min |
 | [error_handling](./exercises/error_handling/README.md) | 45 min |
-| [generics](./exercises/generics/README.md) | x min y sec |
+| [generics](./exercises/generics/README.md) | 10 min |
 | [option](./exercises/option/README.md) | x min y sec |
 | [traits](./exercises/traits/README.md) | x min y sec |
 | [tests](./exercises/tests/README.md) | x min y sec |
