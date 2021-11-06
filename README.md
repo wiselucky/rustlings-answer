@@ -28,7 +28,7 @@ The answers for each exercise are tagged with the exercise name.
 | [error_handling](./exercises/error_handling/README.md) | 45 min |
 | [generics](./exercises/generics/README.md) | 10 min |
 | [option](./exercises/option/README.md) | 20 min |
-| [traits](./exercises/traits/README.md) | x min y sec |
+| [traits](./exercises/traits/README.md) | 10 min |
 | [tests](./exercises/tests/README.md) | x min y sec |
 | [standard_library_types](./exercises/standard_library_types/README.md) | x min y sec |
 | [threads](./exercises/threads/README.md) | x min y sec |
