@@ -29,7 +29,7 @@ The answers for each exercise are tagged with the exercise name.
 | [generics](./exercises/generics/README.md) | 10 min |
 | [option](./exercises/option/README.md) | 20 min |
 | [traits](./exercises/traits/README.md) | 10 min |
-| [tests](./exercises/tests/README.md) | x min y sec |
+| [tests](./exercises/tests/README.md) | 4 min |
 | [standard_library_types](./exercises/standard_library_types/README.md) | x min y sec |
 | [threads](./exercises/threads/README.md) | x min y sec |
 | [macros](./exercises/macros/README.md) | x min y sec |
