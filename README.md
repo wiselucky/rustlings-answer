@@ -31,7 +31,7 @@ The answers for each exercise are tagged with the exercise name.
 | [traits](./exercises/traits/README.md) | 10 min |
 | [tests](./exercises/tests/README.md) | 4 min |
 | quiz3 | 1 min 30 sec|
-| [standard_library_types](./exercises/standard_library_types/README.md) | x min y sec |
+| [standard_library_types](./exercises/standard_library_types/README.md) | wip 38 smin |
 | [threads](./exercises/threads/README.md) | x min y sec |
 | [macros](./exercises/macros/README.md) | x min y sec |
 | [clippy](./exercises/clippy/README.md) | x min y sec |
